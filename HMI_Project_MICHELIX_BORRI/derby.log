@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 17 23:17:41 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017d-ca78-e827-000006864808 
+on database directory memory:D:\$$COURS_L3\L3 -\TOO&CAI\Projet TOO_CAI_AVANCEMENT\BCMS_database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/gamin/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=D:\$$COURS_L3\L3 -\TOO&CAI\Projet TOO_CAI_AVANCEMENT
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

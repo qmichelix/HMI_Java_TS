@@ -1,0 +1,7 @@
+module-info.class
+com\MichelixBorri\BCMS\BCMS$Status.class
+com\MichelixBorri\BCMS\Serveur$My_ServerEndpoint.class
+com\MichelixBorri\BCMS\Serveur.class
+com\MichelixBorri\BCMS\BCMS.class
+com\MichelixBorri\BCMS\Java_11_client.class
+com\MichelixBorri\BCMS\Timeout_log.class
